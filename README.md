@@ -8,3 +8,4 @@
 dali012/dali012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/dali012"><img src="https://api.daily.dev/devcards/6f7ed903217b47ac9ce6412b7ca6fd07.png?r=efn" width="400" alt="dali's Dev Card"/></a>
