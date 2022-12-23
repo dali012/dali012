@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dali012&show_icons=true&locale=en" alt="dali012" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dali012&" alt="dali012" /></p>
+<a href="https://app.daily.dev/dali012"><img src="https://api.daily.dev/devcards/6f7ed903217b47ac9ce6412b7ca6fd07.png?r=zoj" width="400" alt="dali's Dev Card"/></a>
